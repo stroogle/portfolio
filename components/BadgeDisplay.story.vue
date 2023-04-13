@@ -1,0 +1,24 @@
+<template>
+    <Story title="Badge Display">
+        <BadgeDisplay>
+            <Badge>
+                Typescript
+            </Badge>
+            <Badge>
+                Javascript
+            </Badge>
+            <Badge>
+                Rust
+            </Badge>
+            <Badge>
+                Python
+            </Badge>
+            <Badge>
+                Java
+            </Badge>
+            <Badge>
+                PHP
+            </Badge>
+        </BadgeDisplay>
+    </Story>
+</template>
